@@ -48,7 +48,7 @@
 <h2>安全，网络与隐私</h2> <br>
 [广告拦截] Adguard <a href="https://github.com/AdguardTeam/AdguardForWindows/releases">Releases</a> <br>
 [杀毒] 火绒 <a href="https://www.huorong.cn/person5.html">官网下载</a> <br>
-[组织联网] Folder Firewall Blocker <a href="https://dl.downloadly.ir/Files/Software/Folder_Firewall_Blocker_1.2.1_Downloadly.ir.exe">downloadly</a> <br>
+[阻止联网] Folder Firewall Blocker <a href="https://dl.downloadly.ir/Files/Software/Folder_Firewall_Blocker_1.2.1_Downloadly.ir.exe">downloadly</a> <br>
 [安全中心控制] Defender Control <a href="https://www.ghxi.com/defendercontrol.html">果核</a> <br>
 [系统隐私优化] WPD <a href="https://www.ghxi.com/wpd.html">果核</a> <br>
 [应用联网管理] NetLimiter <a href="https://lrepacks.net/repaki-programm-dlya-interneta/353-netlimiter-repack.html">lrepacks</a> <br>
